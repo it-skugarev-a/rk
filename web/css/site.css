@@ -1,0 +1,31 @@
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+ul li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+ul li ul {
+    padding: 0 0 0 20px;
+}
+aside {
+    float: left;
+    margin: 0 20px 0 0;
+}
+main {
+    float: left;
+}
+article {
+    float: left;
+    display: block;
+    margin:  0 20px 0 0;
+}
+article .name {
+    font-weight: bold;
+    direction: block;
+}
